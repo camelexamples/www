@@ -26,3 +26,7 @@ camel.sh
 
 + camel.java
 + camel.xml
+
+## docs
+
+https://github.com/hguerrero/camelk-examples
